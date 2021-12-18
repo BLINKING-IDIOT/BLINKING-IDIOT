@@ -48,4 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blinking-idiot&" alt="blinking-idiot" /></p>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blinking-idiot&label=Profile%20views&color=0e75b6&style=flat" alt="blinking-idiot" /> </p>
+
