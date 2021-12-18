@@ -1,6 +1,6 @@
 <h1 align="center">AARON THOMAS</h1>
 <h3 align="center">just a noob form Kerala,India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blinking-idiot" alt="blinking-idiot" /></a> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark">
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
 - currently learning Data structures and algorithms🤖
@@ -43,7 +43,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLINKING-IDIOT&layout=compact&show_icons=true&theme=chartreuse-dark)
 
-![BLINKING-IDIOT GitHub stats](https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blinking-idiot&" alt="blinking-idiot" /></p>
 <br>
