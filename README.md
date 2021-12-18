@@ -1,5 +1,5 @@
-<h1 align="center">AARON THOMAS</h1>
-<h3 align="center">just a noob form Kerala,India</h3>
+<h1 align="center">AARON THOMAS😇</h1>
+<h3 align="center">just a noob form Kerala,Indi🏞</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark">
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
@@ -43,9 +43,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLINKING-IDIOT&layout=compact&show_icons=true&theme=chartreuse-dark)
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blinking-idiot&" alt="blinking-idiot" /></p>
+<br>
+some codes😇:
 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark">
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=bloody_dragon&show_icons=true&theme=chartreuse-dark">
