@@ -41,9 +41,11 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blinking-idiot&show_icons=true&locale=en&layout=compact" alt="blinking-idiot" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLINKING-IDIOT&layout=compact&show_icons=true&theme=chartreuse-dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blinking-idiot&show_icons=true&locale=en" alt="blinking-idiot" /></p>
+![BLINKING-IDIOT GitHub stats](https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blinking-idiot&" alt="blinking-idiot" /></p>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blinking-idiot&label=Profile%20views&color=0e75b6&style=flat" alt="blinking-idiot" /> </p>
