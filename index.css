@@ -1,0 +1,47 @@
+#main{
+    width: 22%;
+    height: 384px;
+    background: red;
+
+}
+#dis{
+    width: 90%;
+    height: 63px;
+    margin-top: 6%;
+    margin-left: 2%;
+}
+#block{
+    margin-top: 6%;
+    margin-left: 1%;
+    width: 74%;
+    height: 74%;
+    float: left;
+}
+.b{
+    width: 27%;
+    height: 20%;
+    background: yellow;
+    margin-top: 5%;
+    margin-left: 5%;
+    float: left;
+}
+#add{
+    margin-top: 6%;
+    width: 21%;
+    height: 74%;
+    float: left;
+}
+.min{
+    width: 95%;
+    height: 21%;
+    background: yellow;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+#min2{
+    width: 95%;
+    height: 21%;
+    background: yellow;
+    margin-top: 18%;
+    margin-bottom: 10%;
+}
