@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark">
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
-- currently learning Data structures and algorithms🤖
+- currently learning Object-oriented programming🤖
 <br>
 - I like coffee☕
 
