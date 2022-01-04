@@ -48,5 +48,5 @@
 <br>
 some codes😇:
 <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=bloody_dragon&show_icons=true&theme=chartreuse-dark">
+<a href="https://github.com/BLINKING-IDIOT/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
+<a href="https://github.com/BLINKING-IDIOT/bloody_dragon" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=bloody_dragon&show_icons=true&theme=chartreuse-dark"></a>
