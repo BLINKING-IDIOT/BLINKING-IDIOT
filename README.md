@@ -12,7 +12,7 @@
 
 <h3 align="left">😇feel free to talk to me in:</h3>
 <p align="left">
-<a href="https://instagram.com/arn_beatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arn_beatz" height="30" width="40" /></a>
+<a href="https://instagram.com/_arxhr007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arn_beatz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
